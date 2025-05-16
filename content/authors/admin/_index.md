@@ -179,11 +179,11 @@ skills:
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: "custom/aspentech"
       - name: Photography
         description: ''
         percent: 80
-        icon: camera
+        icon: custom/aspentech
 
 languages:
   - name: English
