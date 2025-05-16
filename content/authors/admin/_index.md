@@ -79,7 +79,7 @@ work:
   - position: Associate Software Developer II
     company_name: Aspen Technology
     company_url: 'https://www.aspentech.com/en'
-    company_logo: ''
+    company_logo: '/workspaces/levicavagnetto.github.io/assets/media/icons/aspentech-logo.png'
     date_start: 2023-05-15
     date_end: ''
     summary: |2-
@@ -175,4 +175,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Levi Cavagnetto is Software Engineer with 6 years of formal computer science education and 2 years of hands-on industry experience, specializing in backend and systems development with exposure to frontend technologies. Outside of work, I explore game development and enjoy working with PC hardware and IT systems, continually building both my creative and technical skills.
