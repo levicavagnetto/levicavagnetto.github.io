@@ -91,13 +91,34 @@ work:
     company_name: Aspen Technology
     company_url: 'https://www.aspentech.com/en'
     company_logo: '../../../assets/media/icons/aspentech-logo.png'
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-05-15
+    date_end: 2023-05-14
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Created an internal program to automate the collection of debug information from over 100 customer servers, streamlining one part of the debugging process.
+      - Gained practical experience using Jira, GitHub, and Jenkins for project management, version control, and continuous integration, while actively exploring new programming techniques and best practices.
+      - Engaged in an Agile development environment by participating in daily stand-ups, sprint planning, and retrospectives, contributing to iterative project cycles and team collaboration.
+  - position: Web Developer Intern
+    company_name: University of Wisconsin - Eau Claire
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-01-01
+    date_end: 2021-02-01
+    summary: |
+      Responsibilities include:
+      - Modernized the front end of an existing website created by the career services department, used for connecting students with UW Eau Claire alumni.
+      - Implemented new functional features to the administrator page of the website.
+  - position: Software Engineering Intern
+    company_name: Cardinal Glass
+    company_url: 'https://www.cardinalcorp.com/'
+    company_logo: ''
+    date_start: 2020-06-01
+    date_end: 2020-08-25
+    summary: |
+      Responsibilities include:
+      - Developed software to automate the schematic drawing process for window frames, which is now used across 4 Cardinal Glass plants. This tool saves 5-7 hours of work each week.
+      - Collaborated closely with end users to tailor the program to their specific workflow requirements, ensuring it met their needs effectively.
+      - Co-led the design and development of a project with another intern, working independently from initial concept to final implementation based on specified end goals, demonstrating strong problem-solving and self-management skills.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
