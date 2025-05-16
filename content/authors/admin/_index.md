@@ -39,58 +39,58 @@ profiles:
     url: https://www.linkedin.com/in/levi-cavagnetto/
 
 interests:
-  - Game Development
-  - Microcontrollers
   - Software Engineering
+  - Microcontrollers
+  - Game Development
 
 education:
-  - area: Master of Science in Computer Science
+  - area: M.S. in Computer Science
     institution: University of Minnesota - Twin Cites
     date_start: 2021-09-01
     date_end: 2023-05-15
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+    # summary: |
+    #   Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
+  - area: B.S. in Computer Science
+    institution: University of Wisconsin - Eau Claire
+    date_start: 2017-09-01
+    date_end: 2021-05-15
+    # summary: |
+    #   GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+    #   Courses included:
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Associate Software Developer II
+    company_name: Aspen Technology
+    company_url: 'https://www.aspentech.com/en'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-05-15
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
+      - Assist in the design, coding, and implementation of 4 products within AspenTech’s digital grid management solution.
+      - Work closely with senior developers and project managers to understand project requirements, contribute to project planning, and deliver approximately 3 new features per year.
+      - Stay updated with emerging technologies and industry trends, and actively seek opportunities for professional growth and skill enhancement at my company.
+  - position: Software Developer Intern
+    company_name: Aspen Technology
+    company_url: 'https://www.aspentech.com/en'
+    company_logo: 'assets/media/icons/aspentech-logo.png'
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
