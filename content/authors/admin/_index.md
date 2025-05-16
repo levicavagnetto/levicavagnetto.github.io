@@ -175,15 +175,15 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: aspentech.png
+        icon: 
       - name: Cats
         description: ''
         percent: 100
-        icon: "custom/aspentech.png"
+        icon: 
       - name: Photography
         description: ''
         percent: 80
-        icon: custom/aspentech.png
+        icon: 
 
 languages:
   - name: English
