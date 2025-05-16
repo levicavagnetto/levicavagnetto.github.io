@@ -79,7 +79,7 @@ work:
   - position: Associate Software Developer II
     company_name: Aspen Technology
     company_url: 'https://www.aspentech.com/en'
-    company_logo: '/workspaces/levicavagnetto.github.io/assets/media/icons/aspentech-logo.png'
+    company_logo: '/workspaces/levicavagnetto.github.io/assets/media/icons/aspentech-logo.svg'
     date_start: 2023-05-15
     date_end: ''
     summary: |2-
@@ -90,7 +90,7 @@ work:
   - position: Software Developer Intern
     company_name: Aspen Technology
     company_url: 'https://www.aspentech.com/en'
-    company_logo: '../../../assets/media/icons/aspentech-logo.png'
+    company_logo: '../../../assets/media/icons/aspentech-logo.svg'
     date_start: 2022-05-15
     date_end: 2023-05-14
     summary: |
@@ -101,7 +101,7 @@ work:
   - position: Web Developer Intern
     company_name: University of Wisconsin - Eau Claire
     company_url: ''
-    company_logo: ''
+    company_logo: '/assets/media/icons/aspentech-logo.svg'
     date_start: 2021-01-01
     date_end: 2021-02-01
     summary: |
