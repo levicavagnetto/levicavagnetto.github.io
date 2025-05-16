@@ -79,7 +79,7 @@ work:
   - position: Associate Software Developer II
     company_name: Aspen Technology
     company_url: 'https://www.aspentech.com/en'
-    company_logo: "custom/aspentech-logo"
+    company_logo: custom/aspentech-logo
     date_start: 2023-05-15
     date_end: ''
     summary: |2-
