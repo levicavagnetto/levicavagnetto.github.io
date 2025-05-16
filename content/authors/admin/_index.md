@@ -175,7 +175,7 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: aspentech
       - name: Cats
         description: ''
         percent: 100
