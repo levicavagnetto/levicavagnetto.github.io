@@ -128,19 +128,19 @@ skills:
       - name: C/C++
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/cplusplus
       - name: Python
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/python
       - name: Java
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/java
       - name: JavaScript
         description: ''
         percent: 60
-        icon: code-bracket
+        icon: devicon/javascript
       # - name: C#
       #   description: ''
       #   percent: 100
@@ -148,7 +148,7 @@ skills:
       - name: SQL
         description: ''
         percent: 40
-        icon: circle-stack
+        icon: devicon/sqldeveloper
   - name: Developer Tools
     items:
       - name: Github
@@ -158,15 +158,15 @@ skills:
       - name: Jira
         description: ''
         percent: 80
-        icon: hero/sparkles
+        icon: devicon/jira
       - name: Jenkins
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/jenkins
       - name: Visual Studio
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: devicon/visualstudio
 
   - name: Hobbies
     color: '#eeac02'
