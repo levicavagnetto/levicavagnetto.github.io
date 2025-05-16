@@ -154,11 +154,11 @@ skills:
       - name: Github
         description: ''
         percent: 80
-        icon: devicon/python
+        icon: devicon/github
       - name: Jira
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: hero/sparkles
       - name: Jenkins
         description: ''
         percent: 80
