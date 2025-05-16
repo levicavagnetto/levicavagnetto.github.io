@@ -90,7 +90,7 @@ work:
   - position: Software Developer Intern
     company_name: Aspen Technology
     company_url: 'https://www.aspentech.com/en'
-    company_logo: 'assets/media/icons/aspentech-logo.png'
+    company_logo: '../../../assets/media/icons/aspentech-logo.png'
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
