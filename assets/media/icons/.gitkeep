@@ -1,0 +1,15 @@
+The file `.gitkeep` is just a placeholder to keep the directory in version control; it does not contain any icons.
+
+Icons in your repository are likely coming from one of these sources:
+
+1. **Other files in the `/assets/media/icons/` directory:** Check if there are SVG, PNG, or other image files in this folder (besides `.gitkeep`).
+2. **External icon libraries:** The project might use libraries like Font Awesome, Bootstrap Icons, or similar, included via CDN or npm/yarn.
+3. **Inline SVG or icon components:** Icons could be embedded directly in your HTML, CSS, or JavaScript/React/Vue files.
+
+To find out exactly where icons are coming from, search your codebase for:
+- `<img src="...icons...">`
+- `<svg ...>`
+- `import ... from '...icon...'`
+- References to icon libraries in `package.json` or HTML `<link>`/`<script>` tags.
+
+If you share more of your code or project structure, I can give a more specific answer.

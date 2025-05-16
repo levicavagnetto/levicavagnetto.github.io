@@ -123,20 +123,51 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Programming Languages
     items:
+      - name: C/C++
+        description: ''
+        percent: 80
+        icon: code-bracket
       - name: Python
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: Java
         description: ''
-        percent: 100
-        icon: chart-bar
+        percent: 80
+        icon: code-bracket
+      - name: JavaScript
+        description: ''
+        percent: 60
+        icon: code-bracket
+      # - name: C#
+      #   description: ''
+      #   percent: 100
+      #   icon: chart-bar
       - name: SQL
         description: ''
         percent: 40
         icon: circle-stack
+  - name: Developer Tools
+    items:
+      - name: Github
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Jira
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Jenkins
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Visual Studio
+        description: ''
+        percent: 80
+        icon: code-bracket
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
