@@ -2,8 +2,8 @@
 # Display name
 title: Levi Cavagnetto
 
-# Name pronunciation (optional)
-# name_pronunciation: Levi Cavagnetto
+Name pronunciation (optional)
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Levi
@@ -154,7 +154,7 @@ skills:
       - name: Github
         description: ''
         percent: 80
-        icon: code-bracket
+        icon: github
       - name: Jira
         description: ''
         percent: 80
