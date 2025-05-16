@@ -2,8 +2,8 @@
 # Display name
 title: Levi Cavagnetto
 
-Name pronunciation (optional)
-name_pronunciation: 
+# Name pronunciation (optional)
+# name_pronunciation: 
 
 # Full name (for SEO)
 first_name: Levi
