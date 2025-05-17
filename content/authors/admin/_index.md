@@ -169,8 +169,6 @@ skills:
         icon: devicon/raspberrypi
       - name: Camping
         icon: person-simple-walk
-  - design:
-      columns: 3
 # languages:
   # - name: English
   #   percent: 100
