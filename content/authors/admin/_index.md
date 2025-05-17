@@ -139,6 +139,7 @@ skills:
         icon: devicon/javascript
       - name: SQL
         icon: devicon/sqldeveloper
+    padding: ['0', '20px', '0', '0']
   - name: Developer Tools
     items:
       - name: Github
@@ -157,6 +158,7 @@ skills:
         description: ''
         percent: 80
         icon: devicon/visualstudio
+    padding: ['0', '20px', '0', '0']
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -173,6 +175,7 @@ skills:
         description: ''
         percent: 80
         icon: 
+    padding: ['0', '20px', '0', '0']
 
 # languages:
   # - name: English
