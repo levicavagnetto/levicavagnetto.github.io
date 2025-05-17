@@ -25,6 +25,8 @@ sections:
     design:
       show_skill_percentage: false
       columns: 3
+      spacing:
+        padding: [0, 0, 0, 0]
   # - block: resume-awards
   #   content:
   #     title: Awards
