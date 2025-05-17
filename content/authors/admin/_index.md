@@ -163,18 +163,14 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: 
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: 
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: 
+      - name: Game dev
+        icon: devicon/godot
+      - name: Blender
+        icon: devicon/blender
+      - name: Raspberry Pi
+        icon: devicon/raspberrypi
+      - name: Camping
+        icon: person-simple-walk
     padding: ['0', '20px', '0', '0']
 
 # languages:
