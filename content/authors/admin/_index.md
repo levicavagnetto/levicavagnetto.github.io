@@ -137,6 +137,10 @@ skills:
         description: ''
         percent: 80
         icon: devicon/java
+      - name: Rust
+        description: ''
+        percent: 80
+        icon: devicon/rust
       - name: JavaScript
         description: ''
         percent: 60
@@ -167,10 +171,9 @@ skills:
         description: ''
         percent: 80
         icon: devicon/visualstudio
-
   - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+    # color: '#eeac02'
+    # color_border: '#f0bf23'
     items:
       - name: Hiking
         description: ''
